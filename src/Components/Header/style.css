@@ -1,0 +1,11 @@
+.Header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(49, 81, 92) !important;
+}
+
+.Header img {
+    height: 35px;
+    background-color: transparent;
+}
